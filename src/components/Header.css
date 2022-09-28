@@ -1,0 +1,74 @@
+
+
+.header-image-menu{
+    
+    height: 5%;
+    width: 65%;
+    margin-left: 30%;
+    margin-right: 2%;
+    margin-top: 1%;
+    position: relative;
+    background-color: rgb(42, 157, 165);
+   
+}
+
+.navbar-brand{
+    color: rgb(61, 61, 70);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.nav-linked{
+    color:rgb(154, 154, 158);
+    font-size: 15px;
+    margin-top: 200px;
+    margin: 5px;
+    font-family: 'Times New Roman', Times, serif;
+   
+}
+.mainpage{
+    background-color: blue;
+}
+.slide{
+    width: 100%;
+}
+.para1{
+  text-align: center;
+  font-family: Matura MT Script Capitals;
+}
+.navbar{
+    position: fixed;
+    width: 100%;
+    margin-top: 1%;
+}
+.container{
+    margin: 0px;
+    
+   
+
+}
+.logo2{
+    
+   position: relative;
+   margin-right: 17%;
+}
+.ht{
+    text-align: center;
+    font-family:Berlin Sans FB;
+    color: rgb(61, 54, 52);
+}
+.tab{
+    font-size: 20px;
+    font-family:Berlin Sans FB;
+    
+}
+.tabs{
+    background-color:rgba(51, 49, 49, 0.178); /* Green */
+    border: none;
+    color: black;
+    padding:  2px 15px;;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 10px;
+    /* box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19); */
+
+}
